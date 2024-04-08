@@ -734,3 +734,480 @@ din 0.0.0.0 paydemic.com am transformat in:
 "SecureSecondaries"=dword:00000001
 "NotifyLevel"=dword:00000001
 "AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\manafu.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\petreanu.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\zonait.tv]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\luju.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\b1tv.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\ziuaconstanta.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\agrointel.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\gazetaromaneasca.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\i.imgur.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\escortebucuresti.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\nimfomane.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\sa-mp.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\ro-ph.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\craiovaforum.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\ad.auditude.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\adclick.php]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\afflat3c1.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\afiliati-online.casapariurilor.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\arca.info.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\b365.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\banners.livepartners.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\buymeacoffee.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\ccir.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\cetateanulnet.net]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\click.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\crisanaro.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\dez.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\efortuna.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\epamedia.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\fortuna.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\g4media.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\giz.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\hoinaru.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\imasdk.googleapis.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\investigatoria.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\kerigma.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\kudika.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\librariact.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\livepartners.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\maxbet.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\media.dcnews.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\messages2autdoor.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\myradioonline.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\netbet.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\onlinesport.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\pagead2.googlesyndication.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\pariurionline.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\pariurisportive.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\proger.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\redsky.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.efortuna.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.resamp.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.uzpbihor.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.viamso.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.wall-street.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.3myad.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.adclick.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.carzz.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.efortuna.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.kfetele.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.redsky.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.renosport.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.romaniataramea.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.softpedia.com]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.sport365.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.viabili.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.wall-street.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\DNS Server\Zones\serve.webground.ro]
+"Type"=dword:00000001
+"DatabaseFile"="adservers.dns"
+"SecureSecondaries"=dword:00000001
+"NotifyLevel"=dword:00000001
+"AllowUpdate"=dword:00000000
+
